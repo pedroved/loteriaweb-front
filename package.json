@@ -1,11 +1,11 @@
 {
-    "title": "SB Admin 2",
-    "name": "startbootstrap-sb-admin-2",
-    "version": "4.1.1",
+    "title": "PEDRO LOTETECA",
+    "name": "pedro-loteteca",
+    "version": "1.0",
     "scripts": {
         "start": "node_modules/.bin/gulp watch"
     },
-    "description": "An open source Bootstrap 4 admin theme.",
+    "description": "Site de Loterica",
     "keywords": [
         "css",
         "sass",
@@ -24,7 +24,7 @@
     "license": "MIT",
     "author": "Start Bootstrap",
     "contributors": [
-        "David Miller (http://davidmiller.io/)"
+        "Pedro Rodrigues (https://github.com/pedroved)"
     ],
     "repository": {
         "type": "git",
