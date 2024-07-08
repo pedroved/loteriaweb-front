@@ -1,7 +1,7 @@
 {
     "title": "PEDRO LOTETECA",
     "name": "pedro-loteteca",
-    "version": "1.0",
+    "version": "1.0.0",
     "scripts": {
         "start": "node_modules/.bin/gulp watch"
     },
